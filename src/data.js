@@ -35,4 +35,9 @@ export const productsData = [
 ];
 
 
-export const categories = ["Все", "Розы", "Тюльпаны", "Пионы"];
+export const categoriesData = [
+  { id: 1, name: "Все" },
+  { id: 2, name: "Розы" },
+  { id: 3, name: "Тюльпаны" },
+  { id: 4, name: "Пионы" }
+];
